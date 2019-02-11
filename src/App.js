@@ -4,6 +4,7 @@ import './App.css';
 
 import GuessedWords from './components/GuessedWords/GuessedWords'
 import Congrats from './components/Congrats/Congrats'
+import Input from './components/Input/Input'
 
 class App extends Component {
   render() {
